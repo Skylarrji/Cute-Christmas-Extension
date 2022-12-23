@@ -1,0 +1,16 @@
+{
+  "short_name": "Cute Christmas Countdown",
+  "name": "Cute Christmas Countdown",
+  "icons": {
+    "16": "Christmas logo (48 × 48 px).png",
+    "48": "Christmas logo (48 × 48 px).png",
+   "128": "Christmas logo (128 × 128 px).png"
+  },
+  "permissions": [],
+  "manifest_version": 2,
+  "version": "0.0.1",
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "Cute Christmas Countdown"
+  }
+}

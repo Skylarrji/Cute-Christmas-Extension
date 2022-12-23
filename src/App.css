@@ -1,0 +1,164 @@
+.App { 
+  text-align: center;
+  min-width: 300px;
+  max-width: 1000px;
+  min-height: 300px;
+  max-height: 300px;
+  position: relative;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+/* styling for background images and overlap */
+
+.gif {
+  position: absolute;
+  top: 0;
+}
+
+.bg2 {
+  height: 355px;
+  width: 300px;
+}
+
+.inside {
+  position: absolute;
+  width: 300px;
+  top: 0;
+}
+
+/* styling for inner elements */
+.header {
+  top: 10px;
+  margin-bottom: 1px;
+  color: #790608;
+  text-shadow: 1.5px 1.5px 4px #bc4749;
+  font-family: Christmas Bell, Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+.countdown {
+  font-family: Song, Helvetica, sans-serif;
+  font-size: 17px;
+  color:#386641;
+  text-shadow: 0.25px 0.25px 2px #6a994e;
+  font-weight:bolder;
+}
+
+.activity {
+  font-family: Cute, Helvetica, sans-serif;
+  font-size: 17px;
+  color:#386641;
+}
+
+.btn {
+  background-color: #ccd5ae;
+  color: #790608;
+  padding: 5px 10px;
+  font-family: Cute, Helvetica, sans-serif;
+  text-decoration: none;
+  font-size: 15px;
+  border: dotted;
+  border-color:#386641;
+  border-radius: 5px;
+}
+
+.btn:hover{
+  background-color: #b3bb99;
+}
+
+/* styling for the audio player */
+
+.rhap_container {
+  background: #790608 !important;
+  border-color: #3b0202 !important;
+}
+
+.rhap_main-controls-button svg {
+  color: #cdb4db !important;
+}
+
+.rhap_progress-filled{
+  background-color: #d4a373 !important;
+}
+
+.rhap_progress-indicator {
+  background-color: #ffafcc !important;
+}
+
+.rhap_progress-bar {
+  background-color: #ccd5ae !important;
+}
+
+.rhap_button-clear.rhap_volume-button {
+  color: #cdb4db!important;
+}
+
+.rhap_repeat-button {
+  color: #cdb4db !important;
+}
+
+.rhap_time {
+  color: #f2e8cf !important;
+}
+
+.rhap_volume-bar {
+  background-color: #f2e8cf !important;
+}
+
+.rhap_volume-indicator {
+  background-color: #ffafcc !important;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(255, 255, 255);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+/* importing custom fonts */
+
+@font-face {
+  font-family: 'Christmas Bell';
+  font-weight: 400;
+  src: local('Christmas Bell'), url(./fonts/Christmas\ Bell.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Song';
+  font-weight: 400;
+  src: local('Song'), url(./fonts/Please\ write\ me\ a\ song.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Cute';
+  font-weight: 400;
+  src: local('Cute'), url(./fonts/Passing\ Notes.ttf) format('truetype');
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
