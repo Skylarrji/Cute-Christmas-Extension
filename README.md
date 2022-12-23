@@ -15,5 +15,5 @@ Feeling bored during December? Try the Cute Christmas Extension, a Chrome extens
 5. Click on “Load unpacked” and select the build folder of this project.
 6. Type npm run build into the terminal to see this extension in action!
 
-# Progress Photos
-![Uploading cute christmas extension progress (1).png…]()
+# Progress Photos:
+![cute christmas extension progress (1)](https://user-images.githubusercontent.com/72311728/209408871-2c6e7896-cc76-4a48-9fb6-eb0a7d9af7d0.png)
