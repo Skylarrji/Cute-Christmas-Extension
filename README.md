@@ -16,11 +16,4 @@ Feeling bored during December? Try the Cute Christmas Extension, a Chrome extens
 6. Type npm run build into the terminal to see this extension in action!
 
 # Progress Photos
-![image](https://user-images.githubusercontent.com/72311728/209407882-b78455dd-84c9-4dec-a2f6-ffab85912044.png)
-*First draft.*
-
-![image](https://user-images.githubusercontent.com/72311728/209407982-9042a8cb-b4ae-4998-97f6-351c622d52a9.png)
-*Played around with some fonts and wallpaper.*
-
-![image](https://user-images.githubusercontent.com/72311728/209408023-d0ef3c24-128f-4559-bcf8-730c2299822d.png)
-*Final design (Note: The snow is animated!)*
+![Uploading cute christmas extension progress (1).png…]()
