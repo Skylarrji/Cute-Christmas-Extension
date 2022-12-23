@@ -12,7 +12,7 @@ Feeling bored during December? Try the Cute Christmas Extension, a Chrome extens
 2. Install Node Package Manager if not already and type npm i into the terminal to install all required packages.
 3. Type chrome://extensions/ into your Chrome search bar.
 4. Turn on Developer Mode in the top right corner.
-5. Click on “Load unpacked extension” and select the build folder of this project.
+5. Click on “Load unpacked” and select the build folder of this project.
 6. Type npm run build into the terminal to see this extension in action!
 
 # Progress Photos
