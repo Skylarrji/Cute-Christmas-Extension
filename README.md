@@ -3,7 +3,7 @@ Feeling bored during December? Try the Cute Christmas Extension, a Chrome extens
 
 # Features:
 - Countdown from the current time to the beginning of next Christmas Day.
-- Custom music player, wallpaper and activity for each day in December leading up to Christmas Day.
+- Custom music, wallpaper and activity for each day in December leading up to Christmas Day.
 - Lofi music and custom wallpaper is displayed for each day after Christmas until December 1st.
 - Cute designs and falling snow to get you into the holiday spirit!
 
