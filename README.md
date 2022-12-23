@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# Purpose:
+Feeling bored during December? Try the Cute Christmas Extension, a Chrome extension that reccomendeds a custom song, holiday activity and desktop wallpaper to get into the mood of the holiday season before Christmas Day!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Features:
+- Countdown from the current time to the beginning of next Christmas Day.
+- Custom music player, wallpaper and activity for each day in December leading up to Christmas Day.
+- Lofi music and custom wallpaper is displayed for each day after Christmas until December 1st.
+- Cute designs and falling snow to get you into the holiday spirit!
 
-## Available Scripts
+# How to Use:
+1. Download and upload this project onto VSCode.
+2. Install Node Package Manager if not already and type npm i into the terminal to install all required packages.
+3. Type chrome://extensions/ into your Chrome search bar.
+4. Turn on Developer Mode in the top right corner.
+5. Click on “Load unpacked extension” and select the build folder of this project.
+6. Type npm run build into the terminal to see this extension in action!
 
-In the project directory, you can run:
+# Progress Photos
+![image](https://user-images.githubusercontent.com/72311728/209407882-b78455dd-84c9-4dec-a2f6-ffab85912044.png)
+*First draft.*
 
-### `npm start`
+![image](https://user-images.githubusercontent.com/72311728/209407982-9042a8cb-b4ae-4998-97f6-351c622d52a9.png)
+*Played around with some fonts and wallpaper.*
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://user-images.githubusercontent.com/72311728/209408023-d0ef3c24-128f-4559-bcf8-730c2299822d.png)
+*Final design (Note: The snow is animated!)*
