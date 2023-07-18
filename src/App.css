@@ -5,6 +5,7 @@
   min-height: 300px;
   max-height: 300px;
   position: relative;
+  cursor: url('santa-cursor.png'), auto;
 }
 
 .App-logo {
@@ -68,6 +69,7 @@
 
 .btn:hover{
   background-color: #b3bb99;
+  cursor: url('santa-cursor-hover.png'), pointer;
 }
 
 /* styling for the audio player */
@@ -81,36 +83,44 @@
   color: #cdb4db !important;
 }
 
-.rhap_progress-filled{
-  background-color: #d4a373 !important;
+.rhap_main-controls-button svg:hover {
+  color: #b196c0 !important;
+  cursor: url('santa-cursor-hover.png'), pointer;
 }
 
-.rhap_progress-indicator {
+.rhap_progress-filled, .rhap_progress-bar {
+  background-color: #999c8f !important;
+}
+
+.rhap_progress-filled:hover, .rhap_progress-bar:hover {
+  background-color: #999c8f !important;
+  cursor: url('santa-cursor-hover.png'), pointer;
+}
+
+
+.rhap_progress-indicator, .rhap_volume-indicator{
   background-color: #ffafcc !important;
 }
 
-.rhap_progress-bar {
-  background-color: #ccd5ae !important;
+.rhap_progress-indicator:hover,.rhap_volume-indicator:hover {
+  background-color: #e992b2 !important;
+  cursor: url('santa-cursor-hover.png'), pointer;
 }
 
-.rhap_button-clear.rhap_volume-button {
-  color: #cdb4db!important;
-}
-
-.rhap_repeat-button {
+.rhap_button-clear.rhap_volume-button, .rhap_repeat-button {
   color: #cdb4db !important;
 }
 
-.rhap_time {
+.rhap_button-clear.rhap_volume-button:hover, .rhap_repeat-button:hover {
+  cursor: url('santa-cursor-hover.png'), pointer;
+}
+
+.rhap_time, .rhap_volume-bar{
   color: #f2e8cf !important;
 }
 
-.rhap_volume-bar {
-  background-color: #f2e8cf !important;
-}
-
-.rhap_volume-indicator {
-  background-color: #ffafcc !important;
+.rhap_volume-bar:hover {
+  color: #f2e8cf !important;
 }
 
 .App-header {
