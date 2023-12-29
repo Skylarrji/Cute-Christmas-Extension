@@ -1,5 +1,5 @@
 # Purpose 📝
-Feeling bored during December? Try the Cute Christmas Countdown, a Chrome extension that recommends a custom song, holiday activity and desktop wallpaper to get into the mood of the holiday season before Christmas Day!
+Feeling bored during December? Try the Cute Christmas Countdown, a Chrome extension created using Reacr that recommends a custom song, holiday activity and desktop wallpaper to get into the mood of the holiday season before Christmas Day!
 
 # Features 🖋️
 - Countdown from the current time to the beginning of next Christmas Day.
