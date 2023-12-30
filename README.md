@@ -17,3 +17,6 @@ Feeling bored during December? Try the Cute Christmas Countdown, a Chrome extens
 
 # Progress Photos 🎄
 ![Cute Christmas Extension Progress (2)](https://user-images.githubusercontent.com/72311728/209408998-6109ac5f-539d-4773-a2a6-e09ee6d15a65.png)
+
+# Demo Video 🎥
+https://youtu.be/qBQ2QWg705w
